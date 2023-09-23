@@ -2,8 +2,33 @@
   "videos": [
     {
       "id": 0,
-      "videoTitle": "Creating a Responsive eCommerce Website with React and Tailwind CSS with Add To Cart Functionality",
-      "videoDesc": "Welcome to our in-depth tutorial on building a responsive eCommerce website using React and Tailwind CSS. If you're eager to dive into the world of web development and create your own online store, you're in the right place.<br /><br />In this video, we'll take you through every step of crafting a dynamic, visually appealing, and fully responsive eCommerce site. We'll harness the power of React for building interactive components and leverage Tailwind CSS for efficient and beautiful styling.<br /><br />Our comprehensive guide covers project setup, product listing creation, shopping cart integration, and a seamless checkout process. We'll also delve into responsive design techniques to ensure your site looks impeccable on all devices, from desktops to smartphones.<br /><br />By the end of this tutorial, you'll have a fully functional eCommerce website that you can further customize and launch for your business or personal project. Join us on this exciting coding journey – watch the video now, like, share, and subscribe for more web development insights and tutorials. Let's bring your eCommerce vision to life!"
+      "thumbnail": "Creating_a_Responsive_eCommerce_Website_with_React_and_Tailwind_CSS.webp",
+      "title": "Creating a Responsive eCommerce Website with React and Tailwind CSS with Add To Cart Functionality",
+      "link": "https://www.youtube.com/embed/vpLgOnn-qC8?si=NXDmYYq3O9yFqx7S",
+      "tags": ["React", "Tailwind"],
+      "lang": "eng",
+      "dursation": "01:01",
+      "desc": "Welcome to our in-depth tutorial on building a responsive eCommerce website using React and Tailwind CSS. If you're eager to dive into the world of web development and create your own online store, you're in the right place.<br /><br />In this video, we'll take you through every step of crafting a dynamic, visually appealing, and fully responsive eCommerce site. We'll harness the power of React for building interactive components and leverage Tailwind CSS for efficient and beautiful styling.<br /><br />Our comprehensive guide covers project setup, product listing creation, shopping cart integration, and a seamless checkout process. We'll also delve into responsive design techniques to ensure your site looks impeccable on all devices, from desktops to smartphones.<br /><br />By the end of this tutorial, you'll have a fully functional eCommerce website that you can further customize and launch for your business or personal project. Join us on this exciting coding journey – watch the video now, like, share, and subscribe for more web development insights and tutorials. Let's bring your eCommerce vision to life!"
+    },
+    {
+      "id": 1,
+      "thumbnail": "Full_Stack_Login_System_with_JWT_Authentication_using_Node_Next_Tailwind_&_MongoDB.webp",
+      "title": "Full Stack Login System with JWT Authentication using Node, Next, Tailwind & MongoDB",
+      "link": "https://www.youtube.com/embed/usXQs3KIwZM?si=Ybf5SROG9OVrxwcV",
+      "tags": ["Node", "Next", "Tailwind", "JWT", "MongoDB"],
+      "lang": "eng",
+      "dursation": "01:19",
+      "desc": "Welcome to our comprehensive tutorial on creating a full-stack login flow with JWT authentication using Node.js, Next.js, Tailwind CSS, and MongoDB. If you're ready to dive deep into web development and implement a secure user authentication system, you're in the right place.<br /><br />In this video, we'll guide you through the entire process of building a robust authentication system, from setting up the backend with Node.js and MongoDB to creating a polished frontend interface with Next.js and Tailwind CSS. You'll learn how to handle user registration, login, JWT token generation, and secure route protection.<br /><br />Our tutorial is packed with clear explanations, practical examples, and best practices to ensure you not only understand each component but also implement them effectively. By the end of this video, you'll have a fully functional, secure login system that you can seamlessly integrate into your own projects.<br /><br />Join us on this coding journey – watch the video now, like, share, and subscribe for more web development tutorials. Elevate your web applications with confidence by mastering JWT authentication with Node, Next.js, Tailwind CSS, and MongoDB!"
+    },
+    {
+      "id": 2,
+      "thumbnail": "Building_a_Todo_App_from_Scratch_with_JavaScript_and_Local_Storage.jpg",
+      "title": "Building a Todo App from Scratch with JavaScript and Local Storage",
+      "link": "https://www.youtube.com/embed/rKG2Id4XK_U?si=E_ZbOuIHiXtxvKWH",
+      "tags": ["JavaScript", "Local Storage"],
+      "lang": "eng",
+      "dursation": "38:54",
+      "desc": "In this comprehensive YouTube tutorial, we're diving into the world of web development as we build a fully functional Todo App from scratch using JavaScript and the powerful Local Storage feature. 🚀<br /><br />📌 What You'll Learn:<br /><br />1. Setting up the basic structure of a web page with HTML and CSS.<br />2. Implementing interactive features with JavaScript to add, and remove todo.<br />3. Leveraging Local Storage to save todo even after closing the browser."
     }
   ]
 }
