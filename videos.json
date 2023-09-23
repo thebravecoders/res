@@ -1,112 +1,122 @@
- [
-    {
-      "id": 0,
-      "title": "Movie Search App Using Next.js 13 / TailwindCSS / TypeScript",
-      "thumbnail": "0.jpg",
-      "link": "https://www.youtube.com/embed/c7cKBSfZf0s?si=ZyHc5l53-koAslO1",
-      "tags": ["Next", "Tailwind", "TypeScript"],
-      "lang": "eng",
-      "duration": "01:02",
-      "date": "06/04/2023",
-      "desc": "Today, we will create a movie search app using Next.js 13, TailwindCSS, and TypeScript. We will start by creating a new Next.js project. Then, we will install TailwindCSS and configure it. Next, we will create a new component to display our movie search results. Finally, we will fetch movies from TheMovieDB and render the movie search results."
-    },
-    {
-      "id": 1,
-      "title": "Creating a Multi-Step Form in Next.js 13, TypeScript, and React Hook Form",
-      "thumbnail": "1.jpg",
-      "link": "https://www.youtube.com/embed/c7cKBSfZf0s?si=ZyHc5l53-koAslO1",
-      "tags": ["Next", "React-Hook-Form", "TypeScript"],
-      "lang": "eng",
-      "duration": "39:27",
-      "date": "06/25/2023",
-      "desc": "In this tutorial, we'll learn how to build a multi-step form using Next.js 13, TypeScript, and React Hook Form. A multi-step form allows users to fill out lengthy forms in smaller, more manageable steps, improving user experience and reducing form abandonment."
-    },
-    {
-      "id": 2,
-      "title": "Collapsible Sidebar in Next.js",
-      "thumbnail": "2.jpg",
-      "link": "https://www.youtube.com/embed/_ORPWeJFXwQ?si=I0RAUT1Us8csgVIB",
-      "tags": ["Next", "TypeScript"],
-      "lang": "eng",
-      "duration": "41:16",
-      "date": "01/29/2023",
-      "desc": "In this video, we will going to create collapsible sidebar in Next.js"
-    },
-    {
-      "id": 3,
-      "title": "Create a Responsive Shopping Website with Next.js and Tailwind | Tutorial",
-      "thumbnail": "3.webp",
-      "link": "https://www.youtube.com/embed/KzqNLDMSdMc?si=16dUKfMv6EZvOaRI",
-      "tags": ["Next", "Tailwind", "TypeScript"],
-      "lang": "eng",
-      "duration": "01:10",
-      "date": "07/27/2023",
-      "desc": "Welcome to our comprehensive tutorial on creating a fully responsive shopping website using Next.js and Tailwind! 🛍️💻"
-    },
-    {
-      "id": 4,
-      "title": "Creating a Modern Portfolio with Next.js and Tailwind CSS | Web Development Tutorial",
-      "thumbnail": "4.webp",
-      "link": "https://www.youtube.com/embed/OvC3iM1hA90?si=gm-tQOAfJAP-38JR",
-      "tags": ["Next", "Tailwind", "TypeScript"],
-      "lang": "eng",
-      "duration": "01:04",
-      "date": "08/02/2023",
-      "desc": "Welcome to my Next.js and Tailwind CSS portfolio showcase! In this video, I'm thrilled to present a compilation of my latest web development projects, all crafted with the power of Next.js and the beauty of Tailwind CSS. Watch as I walk you through each project, demonstrating the seamless integration of these cutting-edge technologies. From stunning user interfaces to impressive functionality, I've poured my heart and soul into these web creations. Whether you're a fellow developer seeking inspiration or a curious viewer interested in modern web design, join me on this journey to witness the potential of Next.js and Tailwind CSS in action! Don't forget to like, subscribe, and hit the notification bell to stay tuned for more exciting content. Let's elevate the art of web development together!"
-    },
-    {
-      "id": 5,
-      "title": "Create a Responsive Food Website with Next.js and Tailwind | Tutorial",
-      "thumbnail": "5.webp",
-      "link": "https://www.youtube.com/embed/v0m-sCGilio?si=LGaXYAqgi0sNd47O",
-      "tags": ["Next", "Tailwind", "TypeScript"],
-      "lang": "eng",
-      "duration": "58:53",
-      "date": "08/06/2023",
-      "desc": "Discover an enticing food website created using Next.js and Tailwind CSS! Delight in a diverse collection of delectable recipes, insightful cooking tips, and captivating food blogs. Engage with a passionate community of food enthusiasts and savor our fully responsive design, ensuring a seamless experience on any device. Join us on YouTube for an exclusive behind-the-scenes look at the development process and innovative features. Subscribe for the latest uploads and embark on a culinary adventure at www.yourfoodwebsite.com. Celebrate the joy of food together with us! 🍔🥗🍕🍰🎥🌐"
-    },
-    {
-      "id": 6,
-      "title": "Full Stack CRUD Operations | React, Node, Express & MongoDB",
-      "thumbnail": "6.webp",
-      "link": "https://www.youtube.com/embed/xElA9mGi-I0?si=w5E7Sf5508rujsK8",
-      "tags": ["React", "Node", "Express", "MongoDB"],
-      "lang": "eng",
-      "duration": "01:00",
-      "date": "03/14/2023",
-      "desc": "FullStack CRUD operations refer to the ability of a software application or system to perform Create, Read, Update, and Delete operations on data using a combination of both frontend and backend technologies."
-    },
-    {
-      "id": 7,
-      "title": "Building a Todo App from Scratch with JavaScript and Local Storage",
-      "thumbnail": "7.jpg",
-      "link": "https://www.youtube.com/embed/rKG2Id4XK_U?si=E_ZbOuIHiXtxvKWH",
-      "tags": ["JavaScript", "Local Storage"],
-      "lang": "eng",
-      "duration": "38:54",
-      "date": "08/29/2023",
-      "desc": "In this comprehensive YouTube tutorial, we're diving into the world of web development as we build a fully functional Todo App from scratch using JavaScript and the powerful Local Storage feature. 🚀<br /><br />📌 What You'll Learn:<br /><br />1. Setting up the basic structure of a web page with HTML and CSS.<br />2. Implementing interactive features with JavaScript to add, and remove todo.<br />3. Leveraging Local Storage to save todo even after closing the browser."
-    },
-    {
-      "id": 8,
-      "title": "Full Stack Login System with JWT Authentication using Node, Next, Tailwind & MongoDB",
-      "thumbnail": "8.webp",
-      "link": "https://www.youtube.com/embed/usXQs3KIwZM?si=Ybf5SROG9OVrxwcV",
-      "tags": ["Node", "Next", "Tailwind", "JWT", "MongoDB"],
-      "lang": "eng",
-      "duration": "01:19",
-      "date": "09/04/2023",
-      "desc": "Welcome to our comprehensive tutorial on creating a full-stack login flow with JWT authentication using Node.js, Next.js, Tailwind CSS, and MongoDB. If you're ready to dive deep into web development and implement a secure user authentication system, you're in the right place.<br /><br />In this video, we'll guide you through the entire process of building a robust authentication system, from setting up the backend with Node.js and MongoDB to creating a polished frontend interface with Next.js and Tailwind CSS. You'll learn how to handle user registration, login, JWT token generation, and secure route protection.<br /><br />Our tutorial is packed with clear explanations, practical examples, and best practices to ensure you not only understand each component but also implement them effectively. By the end of this video, you'll have a fully functional, secure login system that you can seamlessly integrate into your own projects.<br /><br />Join us on this coding journey – watch the video now, like, share, and subscribe for more web development tutorials. Elevate your web applications with confidence by mastering JWT authentication with Node, Next.js, Tailwind CSS, and MongoDB!"
-    },
-    {
-      "id": 9,
-      "title": "Creating a Responsive eCommerce Website with React and Tailwind CSS with Add To Cart Functionality",
-      "thumbnail": "9.webp",
-      "link": "https://www.youtube.com/embed/vpLgOnn-qC8?si=NXDmYYq3O9yFqx7S",
-      "tags": ["React", "Tailwind"],
-      "lang": "eng",
-      "duration": "01:01",
-      "date": "08/31/2023",
-      "desc": "Welcome to our in-depth tutorial on building a responsive eCommerce website using React and Tailwind CSS. If you're eager to dive into the world of web development and create your own online store, you're in the right place.<br /><br />In this video, we'll take you through every step of crafting a dynamic, visually appealing, and fully responsive eCommerce site. We'll harness the power of React for building interactive components and leverage Tailwind CSS for efficient and beautiful styling.<br /><br />Our comprehensive guide covers project setup, product listing creation, shopping cart integration, and a seamless checkout process. We'll also delve into responsive design techniques to ensure your site looks impeccable on all devices, from desktops to smartphones.<br /><br />By the end of this tutorial, you'll have a fully functional eCommerce website that you can further customize and launch for your business or personal project. Join us on this exciting coding journey – watch the video now, like, share, and subscribe for more web development insights and tutorials. Let's bring your eCommerce vision to life!"
-    }
-  ]
+[
+  {
+    "id": 0,
+    "title": "Movie Search App Using Next.js 13 / TailwindCSS / TypeScript",
+    "slug": "movie-search-app-using-next-js",
+    "thumbnail": "0.jpg",
+    "link": "https://www.youtube.com/embed/c7cKBSfZf0s?si=ZyHc5l53-koAslO1",
+    "tags": ["Next", "Tailwind", "TypeScript"],
+    "lang": "eng",
+    "duration": "01:02",
+    "date": "06/04/2023",
+    "desc": "Today, we will create a movie search app using Next.js 13, TailwindCSS, and TypeScript. We will start by creating a new Next.js project. Then, we will install TailwindCSS and configure it. Next, we will create a new component to display our movie search results. Finally, we will fetch movies from TheMovieDB and render the movie search results."
+  },
+  {
+    "id": 1,
+    "title": "Creating a Multi-Step Form in Next.js 13, TypeScript, and React Hook Form",
+    "slug": "multi-step-form-using-react-hook-form",
+    "thumbnail": "1.jpg",
+    "link": "https://www.youtube.com/embed/c7cKBSfZf0s?si=ZyHc5l53-koAslO1",
+    "tags": ["Next", "React-Hook-Form", "TypeScript"],
+    "lang": "eng",
+    "duration": "39:27",
+    "date": "06/25/2023",
+    "desc": "In this tutorial, we'll learn how to build a multi-step form using Next.js 13, TypeScript, and React Hook Form. A multi-step form allows users to fill out lengthy forms in smaller, more manageable steps, improving user experience and reducing form abandonment."
+  },
+  {
+    "id": 2,
+    "title": "Collapsible Sidebar in Next.js",
+    "slug": "collapsible-sidebar-in-next-js",
+    "thumbnail": "2.jpg",
+    "link": "https://www.youtube.com/embed/_ORPWeJFXwQ?si=I0RAUT1Us8csgVIB",
+    "tags": ["Next", "TypeScript"],
+    "lang": "eng",
+    "duration": "41:16",
+    "date": "01/29/2023",
+    "desc": "In this video, we will going to create collapsible sidebar in Next.js"
+  },
+  {
+    "id": 3,
+    "title": "Create a Responsive Shopping Website with Next.js and Tailwind | Tutorial",
+    "slug": "responsive-shopping-website-with-next-js-and-tailwind",
+    "thumbnail": "3.webp",
+    "link": "https://www.youtube.com/embed/KzqNLDMSdMc?si=16dUKfMv6EZvOaRI",
+    "tags": ["Next", "Tailwind", "TypeScript"],
+    "lang": "eng",
+    "duration": "01:10",
+    "date": "07/27/2023",
+    "desc": "Welcome to our comprehensive tutorial on creating a fully responsive shopping website using Next.js and Tailwind! 🛍️💻"
+  },
+  {
+    "id": 4,
+    "title": "Creating a Modern Portfolio with Next.js and Tailwind CSS | Web Development Tutorial",
+    "slug": "creating-a-modern-portfolio-with-next-and-tailwind",
+    "thumbnail": "4.webp",
+    "link": "https://www.youtube.com/embed/OvC3iM1hA90?si=gm-tQOAfJAP-38JR",
+    "tags": ["Next", "Tailwind", "TypeScript"],
+    "lang": "eng",
+    "duration": "01:04",
+    "date": "08/02/2023",
+    "desc": "Welcome to my Next.js and Tailwind CSS portfolio showcase! In this video, I'm thrilled to present a compilation of my latest web development projects, all crafted with the power of Next.js and the beauty of Tailwind CSS. Watch as I walk you through each project, demonstrating the seamless integration of these cutting-edge technologies. From stunning user interfaces to impressive functionality, I've poured my heart and soul into these web creations. Whether you're a fellow developer seeking inspiration or a curious viewer interested in modern web design, join me on this journey to witness the potential of Next.js and Tailwind CSS in action! Don't forget to like, subscribe, and hit the notification bell to stay tuned for more exciting content. Let's elevate the art of web development together!"
+  },
+  {
+    "id": 5,
+    "title": "Create a Responsive Food Website with Next.js and Tailwind | Tutorial",
+    "slug": "responsive-food-website-with-next-and-tailwind",
+    "thumbnail": "5.webp",
+    "link": "https://www.youtube.com/embed/v0m-sCGilio?si=LGaXYAqgi0sNd47O",
+    "tags": ["Next", "Tailwind", "TypeScript"],
+    "lang": "eng",
+    "duration": "58:53",
+    "date": "08/06/2023",
+    "desc": "Discover an enticing food website created using Next.js and Tailwind CSS! Delight in a diverse collection of delectable recipes, insightful cooking tips, and captivating food blogs. Engage with a passionate community of food enthusiasts and savor our fully responsive design, ensuring a seamless experience on any device. Join us on YouTube for an exclusive behind-the-scenes look at the development process and innovative features. Celebrate the joy of food together with us! 🍔🥗🍕🍰🎥🌐"
+  },
+  {
+    "id": 6,
+    "title": "Full Stack CRUD Operations | React, Node, Express & MongoDB",
+    "slug": "fullstack-crud-operation",
+    "thumbnail": "6.webp",
+    "link": "https://www.youtube.com/embed/xElA9mGi-I0?si=w5E7Sf5508rujsK8",
+    "tags": ["React", "Node", "Express", "MongoDB"],
+    "lang": "eng",
+    "duration": "01:00",
+    "date": "03/14/2023",
+    "desc": "FullStack CRUD operations refer to the ability of a software application or system to perform Create, Read, Update, and Delete operations on data using a combination of both frontend and backend technologies."
+  },
+  {
+    "id": 7,
+    "title": "Building a Todo App from Scratch with JavaScript and Local Storage",
+    "slug": "todo-app-with-javascript-and-local-storage",
+    "thumbnail": "7.jpg",
+    "link": "https://www.youtube.com/embed/rKG2Id4XK_U?si=E_ZbOuIHiXtxvKWH",
+    "tags": ["JavaScript", "Local Storage"],
+    "lang": "eng",
+    "duration": "38:54",
+    "date": "08/29/2023",
+    "desc": "In this comprehensive YouTube tutorial, we're diving into the world of web development as we build a fully functional Todo App from scratch using JavaScript and the powerful Local Storage feature. 🚀<br /><br />📌 What You'll Learn:<br /><br />1. Setting up the basic structure of a web page with HTML and CSS.<br />2. Implementing interactive features with JavaScript to add, and remove todo.<br />3. Leveraging Local Storage to save todo even after closing the browser."
+  },
+  {
+    "id": 8,
+    "title": "Full Stack Login System with JWT Authentication using Node, Next, Tailwind & MongoDB",
+    "slug": "full-stack-login-system-with-next-node-tailwind-and-mongodb",
+    "thumbnail": "8.webp",
+    "link": "https://www.youtube.com/embed/usXQs3KIwZM?si=Ybf5SROG9OVrxwcV",
+    "tags": ["Node", "Next", "Tailwind", "JWT", "MongoDB"],
+    "lang": "eng",
+    "duration": "01:19",
+    "date": "09/04/2023",
+    "desc": "Welcome to our comprehensive tutorial on creating a full-stack login flow with JWT authentication using Node.js, Next.js, Tailwind CSS, and MongoDB. If you're ready to dive deep into web development and implement a secure user authentication system, you're in the right place.<br /><br />In this video, we'll guide you through the entire process of building a robust authentication system, from setting up the backend with Node.js and MongoDB to creating a polished frontend interface with Next.js and Tailwind CSS. You'll learn how to handle user registration, login, JWT token generation, and secure route protection.<br /><br />Our tutorial is packed with clear explanations, practical examples, and best practices to ensure you not only understand each component but also implement them effectively. By the end of this video, you'll have a fully functional, secure login system that you can seamlessly integrate into your own projects.<br /><br />Join us on this coding journey – watch the video now, like, share, and subscribe for more web development tutorials. Elevate your web applications with confidence by mastering JWT authentication with Node, Next.js, Tailwind CSS, and MongoDB!"
+  },
+  {
+    "id": 9,
+    "title": "Creating a Responsive eCommerce Website with React and Tailwind CSS with Add To Cart Functionality",
+    "slug": "responsive-ecommerce-website-with-react-and-tailwind",
+    "thumbnail": "9.webp",
+    "link": "https://www.youtube.com/embed/vpLgOnn-qC8?si=NXDmYYq3O9yFqx7S",
+    "tags": ["React", "Tailwind"],
+    "lang": "eng",
+    "duration": "01:01",
+    "date": "08/31/2023",
+    "desc": "Welcome to our in-depth tutorial on building a responsive eCommerce website using React and Tailwind CSS. If you're eager to dive into the world of web development and create your own online store, you're in the right place.<br /><br />In this video, we'll take you through every step of crafting a dynamic, visually appealing, and fully responsive eCommerce site. We'll harness the power of React for building interactive components and leverage Tailwind CSS for efficient and beautiful styling.<br /><br />Our comprehensive guide covers project setup, product listing creation, shopping cart integration, and a seamless checkout process. We'll also delve into responsive design techniques to ensure your site looks impeccable on all devices, from desktops to smartphones.<br /><br />By the end of this tutorial, you'll have a fully functional eCommerce website that you can further customize and launch for your business or personal project. Join us on this exciting coding journey – watch the video now, like, share, and subscribe for more web development insights and tutorials. Let's bring your eCommerce vision to life!"
+  }
+]
