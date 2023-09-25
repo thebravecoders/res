@@ -9,7 +9,7 @@
     "lang": "eng",
     "duration": "01:09:36",
     "date": "10/03/2022",
-    "desc": "In this video we will make ToDo App Using Full Stack / React, MongoDB, Express & Node."
+    "desc": "Welcome to our coding tutorial! In this video, we're excited to walk you through the creation of a Full Stack ToDo App. Whether you're a beginner eager to learn the ropes of web development or a seasoned programmer looking to refine your skills, this tutorial is designed to cater to all levels.<br /><br />You'll embark on a journey to build a robust and fully functional task manager application. We'll cover everything from setting up the backend server with Node.js, Express, and MongoDB to creating a sleek and intuitive frontend using HTML, CSS, and JavaScript.<br /><br />Our step-by-step guidance and practical examples will ensure you grasp each concept clearly, from handling task creation and deletion to user authentication and data persistence. By the end of this tutorial, you'll have a powerful ToDo App that you can customize and expand according to your needs.<br /><br />Join us on this coding adventure - watch the video now, like, share, and subscribe for more programming insights and tutorials. Let's create your ultimate task manager together!"
   },
   {
     "id": 1,
@@ -21,7 +21,7 @@
     "lang": "eng",
     "duration": "01:00:43",
     "date": "03/14/2023",
-    "desc": "FullStack CRUD operations refer to the ability of a software application or system to perform Create, Read, Update, and Delete operations on data using a combination of both frontend and backend technologies."
+    "desc": "Welcome to our comprehensive tutorial on Full Stack CRUD Operations! In this video, we'll guide you through the process of creating a full-stack web application capable of performing Create, Read, Update, and Delete (CRUD) operations on data.<br /><br />Whether you're a beginner or an experienced developer, understanding CRUD operations is fundamental for building dynamic web applications. In this tutorial, we'll cover everything you need to know, from setting up a backend server using Node.js and Express to creating a sleek and responsive frontend.<br /><br />You'll learn how to create, retrieve, update, and delete data seamlessly while gaining insights into RESTful API design and database interactions. By the end of this tutorial, you'll have a solid grasp of CRUD operations and the skills to implement them in your own projects.<br /><br />Join us on this coding journey – watch the video now, like, share, and subscribe for more web development insights and tutorials. Let's dive into the world of Full Stack CRUD Operations together!"
   },
   {
     "id": 2,
@@ -33,7 +33,7 @@
     "lang": "eng",
     "duration": "05:39",
     "date": "12/10/2020",
-    "desc": "How To make a Read More / Read Less Button With Pure JavaScript | No Plugin HTML CSS JavaScript Tutorial"
+    "desc": "Welcome to our JavaScript tutorial! In this video, we'll show you how to create a 'Read More / Read Less' button for your web content using pure JavaScript. If you're looking to improve user experience on your website by providing an efficient way to expand and collapse lengthy text or information, you're in the right place.<br /><br />You'll learn step-by-step how to implement this interactive feature, allowing users to see a concise preview of your content and then reveal the full text with a simple click. This technique is particularly useful for blogs, articles, product descriptions, or any web content that benefits from condensed previews.<br /><br />Whether you're a beginner or an experienced web developer, this tutorial will equip you with the skills to enhance your web content interactivity using JavaScript. By the end of this video, you'll have a valuable addition to your web development toolkit.<br /><br />Join us on this coding journey - watch the video now, like, share, and subscribe for more web development tips and tutorials. Let's make your web content more engaging with the 'Read More / Read Less' button!"
   },
   {
     "id": 3,
@@ -45,7 +45,7 @@
     "lang": "eng",
     "duration": "32:08",
     "date": "10/05/2022",
-    "desc": "In this video, we will do form validation in React with using React Hook Form"
+    "desc": "Welcome to our tutorial on Form Validation in React using React Hook Form! If you're eager to ensure data accuracy and reliability in your web applications, you're in the right place.<br /><br />In this video, we'll guide you through the process of implementing robust form validation using React Hook Form, a powerful library for managing forms in React. You'll learn how to validate user inputs, handle errors gracefully, and provide users with clear feedback.<br /><br />We'll cover essential concepts such as input validation rules, error messages, and conditional validation. Whether you're a beginner or an experienced React developer, this tutorial will equip you with the skills needed to create forms that collect accurate data and improve user experience.<br /><br />By the end of this tutorial, you'll have a solid understanding of form validation in React, empowering you to build dependable and user-friendly web applications. Join us on this coding journey - watch the video now, like, share, and subscribe for more web development insights and tutorials. Let's create reliable user inputs together!"
   },
   {
     "id": 4,
@@ -57,7 +57,7 @@
     "lang": "eng",
     "duration": "14:28",
     "date": "11/24/2021",
-    "desc": "In this video we will learn how to implement a Sidebar in React js"
+    "desc": "Welcome to our React.js tutorial! In this video, we'll guide you through creating a sidebar for your web application. If you're looking to enhance user experience by adding a user-friendly navigation system, you're in the right place.<br /><br />Learn how to design and code a versatile sidebar that can expand and collapse, making navigation intuitive for your users. Whether you're building a personal project or a complex web application, a well-designed sidebar can greatly improve accessibility.<br /><br />We'll explore various React.js components and techniques, allowing you to customize your sidebar's appearance and functionality to suit your specific needs. This tutorial is suitable for both beginners and experienced developers.<br /><br />By the end of this video, you'll have the skills to integrate a responsive sidebar into your React.js application, making it more user-friendly and visually appealing. Join us on this coding journey - watch the video now, like, share, and subscribe for more React.js tutorials and web development insights. Let's streamline your web app's navigation with a sidebar!"
   },
   {
     "id": 5,
@@ -69,7 +69,7 @@
     "lang": "eng",
     "duration": "01:10:46",
     "date": "07/27/2023",
-    "desc": "Welcome to our comprehensive tutorial on creating a fully responsive shopping website using Next.js and Tailwind! 🛍️💻"
+    "desc": "Welcome to our comprehensive tutorial on building a responsive shopping website using Next.js and Tailwind CSS! If you're ready to take your web development skills to the next level and create an elegant and fully responsive e-commerce site, you're in the right place.<br /><br />In this video, we'll guide you through every step of the process, from setting up the Next.js project to styling your site with the power of Tailwind CSS. You'll learn how to create product listings, handle shopping cart functionality, and provide a seamless user experience for online shoppers.<br /><br />We'll also explore responsive design techniques to ensure your e-commerce website looks fantastic on all devices, from desktops to mobile phones. By the end of this tutorial, you'll have a polished and fully functional shopping website that you can proudly showcase or customize for your own e-commerce venture.<br /><br />Join us on this exciting coding journey - watch the video now, like, share, and subscribe for more web development insights and tutorials. Let's bring your e-commerce vision to life and elevate your online business!"
   },
   {
     "id": 6,
@@ -81,7 +81,7 @@
     "lang": "eng",
     "duration": "41:16",
     "date": "01/29/2023",
-    "desc": "In this video, we will going to create collapsible sidebar in Next.js"
+    "desc": "Welcome to our tutorial on creating a Collapsible Sidebar in Next.js! If you're looking to elevate your web development skills and provide an interactive and space-saving navigation solution for your website, you're in the right place.<br /><br />In this video, we'll guide you through the process of implementing a collapsible sidebar that enhances user experience and optimizes screen real estate. We'll leverage the power of Next.js for seamless integration and React for dynamic rendering.<br /><br />You'll learn how to design and code a user-friendly sidebar that expands and collapses smoothly, providing users with quick access to important sections of your website. This project is perfect for web developers aiming to create modern and responsive user interfaces.<br /><br />By the end of this tutorial, you'll have a fully functional Collapsible Sidebar that you can customize and integrate into your own projects. Join us on this coding journey - watch the video now, like, share, and subscribe for more web development insights and tutorials. Let's enhance user navigation together!"
   },
   {
     "id": 7,
@@ -93,7 +93,7 @@
     "lang": "eng",
     "duration": "39:27",
     "date": "06/25/2023",
-    "desc": "In this tutorial, we'll learn how to build a multi-step form using Next.js 13, TypeScript, and React Hook Form. A multi-step form allows users to fill out lengthy forms in smaller, more manageable steps, improving user experience and reducing form abandonment."
+    "desc": "Welcome to our tutorial on creating a Multi-Step Form in Next.js 13, using React Hook Form and TypeScript! If you're ready to streamline complex data collection processes on your website, you're in the right place.<br /><br />In this video, we'll guide you through building a responsive and user-friendly Multi-Step Form, perfect for applications that require structured data input. We'll leverage the power of Next.js 13 for seamless navigation and React Hook Form for efficient form handling, all while ensuring type safety with TypeScript.<br /><br />You'll learn how to divide your form into manageable steps, validate user inputs, and provide a smooth user experience. This project is ideal for web developers aiming to enhance their skills in creating interactive and data-driven applications.<br /><br />By the end of this tutorial, you'll have a fully functional Multi-Step Form that you can adapt for your specific data collection needs. Join us on this coding journey - watch the video now, like, share, and subscribe for more web development insights and tutorials. Let's simplify complex data gathering together!"
   },
   {
     "id": 8,
@@ -105,7 +105,7 @@
     "lang": "eng",
     "duration": "18:48",
     "date": "11/19/2022",
-    "desc": "In this video, we will create an Accordion with a plus minus icon using Next js and Tailwind CSS"
+    "desc": "Welcome to our tutorial on creating an Animated Accordion using Next.js, React.js, and Tailwind CSS! In this video, we'll guide you through the process of building an engaging and interactive web component that's perfect for displaying organized content.<br /><br />Accordion menus are a fantastic way to make your web pages more compact and user-friendly, and adding animations to them can bring them to life. Whether you're a beginner or an experienced developer, this tutorial will provide valuable insights into creating dynamic user interfaces.<br /><br />Learn how to design and code an Accordion that smoothly expands and collapses sections with appealing animations. We'll explore the power of Next.js and React.js for component creation, as well as leverage the styling capabilities of Tailwind CSS.<br /><br />By the end of this tutorial, you'll have a stylish and interactive Animated Accordion that you can easily integrate into your own web projects. Join us on this coding journey - watch the video now, like, share, and subscribe for more web development tips and tutorials. Let's elevate your web interactivity with an Animated Accordion!"
   },
   {
     "id": 9,
@@ -117,7 +117,7 @@
     "lang": "eng",
     "duration": "37:52",
     "date": "02/28/2023",
-    "desc": "In this video, we will learn How to use MongoDB/Mongoose in Next js App."
+    "desc": "Welcome to our comprehensive tutorial on using Next.js API with MongoDB! In this video, we'll guide you through the process of combining Next.js, a powerful React framework, with MongoDB, a versatile NoSQL database, to create robust and data-driven web applications.<br /><br />Whether you're a web developer looking to expand your skill set or a beginner eager to learn, this tutorial is tailored for you. We'll cover everything from setting up your Next.js project to integrating MongoDB for seamless data storage and retrieval.<br /><br />You'll learn how to create RESTful APIs with Next.js, handle database operations, and serve data to your frontend. This dynamic combination allows you to build feature-rich web applications with ease.<br /><br />By the end of this tutorial, you'll have a solid foundation in using Next.js API with MongoDB, enabling you to tackle a wide range of web development projects. Join us on this coding journey - watch the video now, like, share, and subscribe for more web development insights and tutorials. Let's build powerful web apps together!"
   },
   {
     "id": 10,
@@ -129,7 +129,7 @@
     "lang": "eng",
     "duration": "01:01:13",
     "date": "02/12/2023",
-    "desc": "In this video, we will learn how to handle file uploads in a MERN App by making a simple Photo Gallery App"
+    "desc": "Welcome to our tutorial on building a Photo Gallery MERN App! In this video, we'll guide you through the process of creating a feature-rich web application that enables users to showcase their photos in a beautiful and organized gallery.<br /><br />Using the MERN stack (MongoDB, Express, React, and Node.js), you'll learn how to develop a full-fledged web app that includes user authentication, image uploading, storage, and dynamic rendering. Whether you're a beginner or an experienced developer, this tutorial offers valuable insights into modern web application development.<br /><br />We'll cover everything from setting up the backend API with Node.js and Express to building a responsive frontend with React. You'll also explore MongoDB for efficient data storage and retrieval.<br /><br />By the end of this tutorial, you'll have a powerful Photo Gallery MERN App that you can customize and expand for various creative and business purposes. Join us on this coding journey - watch the video now, like, share, and subscribe for more web development tips and tutorials. Let's bring your photo gallery vision to life!"
   },
   {
     "id": 11,
