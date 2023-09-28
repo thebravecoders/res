@@ -113,7 +113,7 @@
   },
   {
     "id": 8,
-    "title": "Full Stack Login System with JWT Authentication using Node, Next, Tailwind & MongoDB",
+    "title": "Full Stack Login System",
     "slug": "full-stack-login-system-with-next-node-tailwind-and-mongodb",
     "thumbnail": "8.webp",
     "link": "https://www.youtube.com/embed/usXQs3KIwZM?si=Ybf5SROG9OVrxwcV",
@@ -123,7 +123,7 @@
     "lang": "eng",
     "duration": "01:19:17",
     "date": "09/04/2023",
-    "desc": "Welcome to our comprehensive tutorial on creating a full-stack login flow with JWT authentication using Node.js, Next.js, Tailwind CSS, and MongoDB. If you're ready to dive deep into web development and implement a secure user authentication system, you're in the right place.<br /><br />In this video, we'll guide you through the entire process of building a robust authentication system, from setting up the backend with Node.js and MongoDB to creating a polished frontend interface with Next.js and Tailwind CSS. You'll learn how to handle user registration, login, JWT token generation, and secure route protection.<br /><br />Our tutorial is packed with clear explanations, practical examples, and best practices to ensure you not only understand each component but also implement them effectively. By the end of this video, you'll have a fully functional, secure login system that you can seamlessly integrate into your own projects.<br /><br />Join us on this coding journey - watch the video now, like, share, and subscribe for more web development tutorials. Elevate your web applications with confidence by mastering JWT authentication with Node, Next.js, Tailwind CSS, and MongoDB!"
+    "desc": "Welcome to our c"
   },
   {
     "id": 9,
