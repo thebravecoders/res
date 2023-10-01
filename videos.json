@@ -252,6 +252,20 @@
     "desc": "Welcome to our comprehensive tutorial on creating a Responsive eCommerce Website using React and Tailwind CSS. If you're ready to embark on a journey to design and develop a fully functional online store, you've come to the right place.<br /><br />In this video, we'll guide you through the entire process of building an eCommerce website that is not only visually stunning but also fully responsive to various devices and screen sizes. We'll use the power of React for dynamic components and Tailwind CSS for efficient styling.<br /><br />You'll learn how to set up your project, create product listings, implement shopping cart functionality, and handle the checkout process. Additionally, we'll explore responsive design techniques to ensure your eCommerce site looks great on desktops, tablets, and smartphones.<br /><br />By the end of this tutorial, you'll have a fully functional eCommerce website that you can customize and expand to launch your own online store. Join us on this exciting coding journey - watch the video now, like, share, and subscribe for more web development tutorials. Let's bring your eCommerce dream to life!"
   },
   {
+    "id": 18,
+    "title": "Responsive Movieverse Website using Next, Tailwind & TMDB API",
+    "slug": "movieverse-website-using-next-and-tailwind",
+    "thumbnail": "18.webp",
+    "link": "https://www.youtube.com/embed/1EsszBdWDDw?si=1XVI2YYePiJN6IHS",
+    "live": "https://movieverse-thebravecoders.vercel.app",
+    "download": "https://www.buymeacoffee.com/thebravecoders/e/171043",
+    "tags": ["Next", "Tailwind", "TMDB API"],
+    "lang": "hindi",
+    "duration": "02:07:09",
+    "date": "09/28/2023",
+    "desc": "Welcome to our tutorial on building a Responsive Movieverse Website! In this video, we'll take you on a thrilling coding adventure, where you'll learn how to create a dynamic and visually appealing movie website using Next.js, Tailwind CSS, and the powerful TMDB API.<br /><br />Unlock the secrets of building a feature-rich website that provides users with an immersive cinematic experience. We'll guide you through every step, from setting up the Next.js project to fetching movie data from the TMDB API and styling your site with Tailwind CSS.<br /><br />Whether you're a web development enthusiast or a seasoned developer, this tutorial offers valuable insights into creating responsive and engaging web applications. By the end of this tutorial, you'll have a fully functional Movieverse Website that allows users to explore the cinematic universe with ease.<br /><br />Join us on this coding journey - watch the video now, like, share, and subscribe for more web development tips and tutorials. Let's dive into the world of movies together!"
+  },
+  {
     "id": 19,
     "title": "Responsive eCommerce Cosmetics Website with Next, Redux and Tailwind CSS | Hindi Tutorial",
     "slug": "ecommerce-cosmetics-website-with-next-redux-and-tailwind",
