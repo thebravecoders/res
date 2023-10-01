@@ -264,5 +264,33 @@
     "duration": "02:07:09",
     "date": "09/28/2023",
     "desc": "Welcome to our tutorial on building a Responsive Movieverse Website! In this video, we'll take you on a thrilling coding adventure, where you'll learn how to create a dynamic and visually appealing movie website using Next.js, Tailwind CSS, and the powerful TMDB API.<br /><br />Unlock the secrets of building a feature-rich website that provides users with an immersive cinematic experience. We'll guide you through every step, from setting up the Next.js project to fetching movie data from the TMDB API and styling your site with Tailwind CSS.<br /><br />Whether you're a web development enthusiast or a seasoned developer, this tutorial offers valuable insights into creating responsive and engaging web applications. By the end of this tutorial, you'll have a fully functional Movieverse Website that allows users to explore the cinematic universe with ease.<br /><br />Join us on this coding journey - watch the video now, like, share, and subscribe for more web development tips and tutorials. Let's dive into the world of movies together!"
+  },
+  {
+    "id": 19,
+    "title": "Responsive eCommerce Cosmetics Website with Next, Redux and Tailwind CSS | Hindi Tutorial",
+    "slug": "ecommerce-cosmetics-website-with-next-redux-and-tailwind",
+    "thumbnail": "19.jpg",
+    "link": "https://www.youtube.com/embed/Ei82WZjD2EA?si=GCdBeSnR7I0-SVVr",
+    "live": "https://thebravecoders-responsive-cosmetics-website-with-dg110g8i1.vercel.app",
+    "download": "https://www.buymeacoffee.com/thebravecoders/e/165958",
+    "tags": ["Next", "Redux", "Tailwind"],
+    "lang": "hindi",
+    "duration": "01:49:35",
+    "date": "09/09/2023",
+    "desc": "Welcome to our in-depth tutorial on building a responsive cosmetics website using Next.js, Redux, and Tailwind CSS. If you're ready to take your web development skills to the next level and create a visually stunning, fully responsive e-commerce site for cosmetics, you're in the right place.<br /><br />In this video, we'll guide you through every step of the process, from setting up the Next.js project to implementing Redux for state management and styling your site with the power of Tailwind CSS. You'll learn how to create product listings, handle shopping cart functionality, and create a seamless user experience.<br /><br />We'll also delve into responsive design techniques to ensure your cosmetics website looks flawless on all devices, from desktops to mobile phones. By the end of this tutorial, you'll have a polished and fully functional cosmetics website that you can proudly showcase or customize for your own e-commerce venture.<br /><br />Join us on this exciting coding journey - watch the video now, like, share, and subscribe for more web development insights and tutorials. Let's bring your cosmetics website vision to life together!"
+  },
+  {
+    "id": 20,
+    "title": "Full Stack Login Flow with JWT Authentication using Node, Next, Tailwind & MongoDB | Hindi Tutorial",
+    "slug": "full-stack-login-flow-jwt-node-next-tailwind-and-mongodb",
+    "thumbnail": "20.webp",
+    "link": "https://www.youtube.com/embed/zJGwu7DCZno?si=dvILb1S64N40h5-G",
+    "live": null,
+    "download": "https://github.com/AbdulMoqueet/full-stack-login-flow",
+    "tags": ["Node", "JWT", "Next", "Tailwind", "MongoDB"],
+    "lang": "hindi",
+    "duration": "01:56:17",
+    "date": "08/31/2023",
+    "desc": "Welcome to our comprehensive tutorial on creating a robust login flow with JWT authentication using Node.js, Next.js, JWT, Tailwind CSS, and MongoDB. If you're ready to bolster your web development skills and implement secure user authentication in your applications, you're in the right place.<br /><br />In this video, we'll guide you through every step of building a complete authentication system, from setting up the backend with Node.js and MongoDB to creating the frontend interface with Next.js and Tailwind CSS. You'll learn how to handle user registration, login, token generation, and secure route protection using JWT.<br /><br />Our tutorial offers clear explanations and practical examples to help you understand and implement each component effectively. By the end of this video, you'll have a fully functional and secure user authentication system that you can integrate into your projects.<br /><br />Join us on this coding journey - watch the video now, like, share, and subscribe for more web development tutorials. Secure your applications confidently by mastering JWT authentication with Node, Next.js, Tailwind CSS, and MongoDB!"
   }
 ]
