@@ -292,5 +292,19 @@
     "duration": "01:56:17",
     "date": "08/31/2023",
     "desc": "Welcome to our comprehensive tutorial on creating a robust login flow with JWT authentication using Node.js, Next.js, JWT, Tailwind CSS, and MongoDB. If you're ready to bolster your web development skills and implement secure user authentication in your applications, you're in the right place.<br /><br />In this video, we'll guide you through every step of building a complete authentication system, from setting up the backend with Node.js and MongoDB to creating the frontend interface with Next.js and Tailwind CSS. You'll learn how to handle user registration, login, token generation, and secure route protection using JWT.<br /><br />Our tutorial offers clear explanations and practical examples to help you understand and implement each component effectively. By the end of this video, you'll have a fully functional and secure user authentication system that you can integrate into your projects.<br /><br />Join us on this coding journey - watch the video now, like, share, and subscribe for more web development tutorials. Secure your applications confidently by mastering JWT authentication with Node, Next.js, Tailwind CSS, and MongoDB!"
+  },
+  {
+    "id": 21,
+    "title": "Animated Accordion in React without any Library",
+    "slug": "animated-accordion-in-react",
+    "thumbnail": "21.webp",
+    "link": "https://www.youtube.com/embed/Jh4wYuAn2B8?si=FedVZ0LBERwRwSX_",
+    "live": "https://thebravecoders-accordion.netlify.app",
+    "download": "https://github.com/thebloodcoders/accordion",
+    "tags": ["React", "TypeScript"],
+    "lang": "hindi",
+    "duration": "24:01",
+    "date": "10/02/2023",
+    "desc": "Welcome to our comprehensive tutorial on creating an Animated Accordion in React.js! In this video, we will dive deep into the world of web development to build an engaging and visually captivating user interface component.<br /><br />Accordions are a fantastic way to present content in a compact and user-friendly manner, and adding animations takes them to the next level. Whether you're a seasoned developer or just starting with React.js, this tutorial is designed to help you master the art of creating dynamic user interfaces.<br /><br />You'll learn how to design, code, and animate an Accordion component that smoothly expands and collapses sections of content with elegance. We'll harness the power of React.js for interactive components and explore CSS animations to make your Accordion truly captivating.<br /><br />Our step-by-step guidance and practical examples will equip you with the skills needed to create stunning Animated Accordions that will engage and delight your website visitors.<br /><br />By the end of this tutorial, you'll have a valuable addition to your web development toolkit, enabling you to create dynamic and interactive user interfaces that stand out. Join us on this coding journey - watch the video now, like, share, and subscribe for more web development tips and tutorials. Let's elevate your user interaction with the Animated Accordion in React.js!"
   }
 ]
