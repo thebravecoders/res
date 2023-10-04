@@ -306,5 +306,19 @@
     "duration": "24:01",
     "date": "10/02/2023",
     "desc": "Welcome to our comprehensive tutorial on creating an Animated Accordion in React.js! In this video, we will dive deep into the world of web development to build an engaging and visually captivating user interface component.<br /><br />Accordions are a fantastic way to present content in a compact and user-friendly manner, and adding animations takes them to the next level. Whether you're a seasoned developer or just starting with React.js, this tutorial is designed to help you master the art of creating dynamic user interfaces.<br /><br />You'll learn how to design, code, and animate an Accordion component that smoothly expands and collapses sections of content with elegance. We'll harness the power of React.js for interactive components and explore CSS animations to make your Accordion truly captivating.<br /><br />Our step-by-step guidance and practical examples will equip you with the skills needed to create stunning Animated Accordions that will engage and delight your website visitors.<br /><br />By the end of this tutorial, you'll have a valuable addition to your web development toolkit, enabling you to create dynamic and interactive user interfaces that stand out. Join us on this coding journey - watch the video now, like, share, and subscribe for more web development tips and tutorials. Let's elevate your user interaction with the Animated Accordion in React.js!"
+  },
+  {
+    "id": 22,
+    "title": "Understanding the Object.groupBy() in JavaScript",
+    "slug": "understanding-the-object-groupBy-in-javascript",
+    "thumbnail": "22.webp",
+    "link": "https://www.youtube.com/embed/v419VMk4NWs?si=8PIYxsOi8tc6FtZT",
+    "live": null,
+    "download": null,
+    "tags": ["JavaScript"],
+    "lang": "eng",
+    "duration": "08:38",
+    "date": "10/04/2023",
+    "desc": "The Object.groupBy() static method groups the elements of a given iterable according to the string values returned by a provided callback function. The returned object has separate properties for each group, containing arrays with the elements in the group.<br /><br />This method should be used when group names can be represented by strings. If you need to group elements using a key that is some arbitrary value, use Map.groupBy() instead."
   }
 ]
