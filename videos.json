@@ -113,8 +113,8 @@
   },
   {
     "id": 8,
-    "title": "Full Stack Login System with JWT Authentication using Node, Next, Tailwind & MongoDB",
-    "slug": "full-stack-login-system-with-next-node-tailwind-and-mongodb",
+    "title": "Full Stack Login System with JWT Authentication",
+    "slug": "full-stack-login-system-with-jwt",
     "thumbnail": "8.webp",
     "link": "https://www.youtube.com/embed/usXQs3KIwZM?si=Ybf5SROG9OVrxwcV",
     "live": null,
