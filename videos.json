@@ -306,5 +306,19 @@
     "duration": "08:38",
     "date": "10/04/2023",
     "desc": "The Object.groupBy() static method groups the elements of a given iterable according to the string values returned by a provided callback function. The returned object has separate properties for each group, containing arrays with the elements in the group.<br /><br />This method should be used when group names can be represented by strings. If you need to group elements using a key that is some arbitrary value, use Map.groupBy() instead."
+  },
+  {
+    "id": 22,
+    "title": "Creating eCommerce electronic website using React Redux Tailwind",
+    "slug": "creating-ecommerce-electronic-website",
+    "thumbnail": "22.webp",
+    "link": "https://www.youtube.com/embed/eT1ykAdULzU?si=49tg4YCb4mMnm6QR",
+    "live": "https://thebravecoders-ecommerce-electronic.netlify.app",
+    "download": "https://www.buymeacoffee.com/thebravecoders/e/173648",
+    "tags": ["React", "Redux", "Tailwind", "TypeScript"],
+    "lang": "hindi",
+    "duration": "01:19:45",
+    "date": "10/08/2023",
+    "desc": "Welcome to our comprehensive tutorial on building an eCommerce electronics website using React, Redux, and Tailwind CSS! In this video, we'll embark on a thrilling web development journey where you'll learn how to create a dynamic and visually appealing online store for electronic products.<br /><br />In today's digital age, eCommerce websites are essential for businesses looking to thrive online. Whether you're a beginner or an experienced developer, this tutorial will equip you with the skills needed to create a feature-rich, responsive, and user-friendly digital storefront.<br /><br />We'll guide you through every step of the process, from setting up your React project to implementing Redux for state management and styling your site with the power of Tailwind CSS. You'll discover how to create product listings, handle shopping cart functionality, and seamlessly integrate payment gateways.<br /><br />Our tutorial will also cover responsive design techniques, ensuring that your eCommerce site looks fantastic on various devices, from desktop computers to smartphones.<br /><br />By the end of this tutorial, you'll have a fully functional eCommerce electronics website that you can customize and expand to launch your own digital storefront or integrate into your business. Join us on this exciting coding journey - watch the video now, like, share, and subscribe for more web development insights and tutorials. Let's build your digital storefront together!"
   }
 ]
