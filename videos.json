@@ -320,5 +320,19 @@
     "duration": "01:19:45",
     "date": "10/08/2023",
     "desc": "Welcome to our comprehensive tutorial on building an eCommerce electronics website using React, Redux, and Tailwind CSS! In this video, we'll embark on a thrilling web development journey where you'll learn how to create a dynamic and visually appealing online store for electronic products.<br /><br />In today's digital age, eCommerce websites are essential for businesses looking to thrive online. Whether you're a beginner or an experienced developer, this tutorial will equip you with the skills needed to create a feature-rich, responsive, and user-friendly digital storefront.<br /><br />We'll guide you through every step of the process, from setting up your React project to implementing Redux for state management and styling your site with the power of Tailwind CSS. You'll discover how to create product listings, handle shopping cart functionality, and seamlessly integrate payment gateways.<br /><br />Our tutorial will also cover responsive design techniques, ensuring that your eCommerce site looks fantastic on various devices, from desktop computers to smartphones.<br /><br />By the end of this tutorial, you'll have a fully functional eCommerce electronics website that you can customize and expand to launch your own digital storefront or integrate into your business. Join us on this exciting coding journey - watch the video now, like, share, and subscribe for more web development insights and tutorials. Let's build your digital storefront together!"
+  },
+  {
+    "id": 23,
+    "title": "Fully Responsive Modern Dark Mode Portfolio Built in Next.js 13 and Tailwind CSS",
+    "slug": "modern-dark-mode-portfolio-built-in-next-and-tailwind",
+    "thumbnail": "23.jpg",
+    "link": "https://www.youtube.com/embed/IsuYbcIdcM8?si=f-rWb3vnAaOUQLOr",
+    "live": "https://portfolio-thebravecoders.vercel.app",
+    "download": "https://www.buymeacoffee.com/thebravecoders/e/168936",
+    "tags": ["Next", "Tailwind", "TypeScript"],
+    "lang": "eng",
+    "duration": "01:19:30",
+    "date": "10/09/2023",
+    "desc": "Welcome to our in-depth tutorial on creating a Fully Responsive Modern Dark Mode Portfolio using Next.js 13 and Tailwind CSS! In this video, we're diving deep into web development to help you build a stunning online portfolio that not only showcases your skills but also keeps up with the latest design trends.<br /><br />Having a portfolio is crucial for developers, designers, and creative professionals to showcase their work and leave a lasting impression on potential clients or employers. With the power of Next.js and the flexibility of Tailwind CSS, you'll create a portfolio that stands out.<br /><br />We'll guide you through the entire process, from setting up a Next.js project to designing and styling your portfolio with Tailwind CSS. You'll learn responsive design principles to ensure your portfolio looks amazing on all devices. Plus, we'll implement a dark mode feature for that modern touch.<br /><br />Whether you're a seasoned developer or just starting your journey, this tutorial offers valuable insights and practical examples to help you create a professional online portfolio that truly represents you.<br /><br />By the end of this tutorial, you'll have a sleek and fully responsive modern portfolio that you can proudly share with the world. Join us on this coding journey - watch the video now, like, share, and subscribe for more web development tips and tutorials. Let's showcase your skills in style with a modern dark mode portfolio in Next.js and Tailwind CSS!"
   }
 ]
