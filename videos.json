@@ -334,5 +334,19 @@
     "duration": "01:19:30",
     "date": "10/09/2023",
     "desc": "Welcome to our in-depth tutorial on creating a Fully Responsive Modern Dark Mode Portfolio using Next.js 13 and Tailwind CSS! In this video, we're diving deep into web development to help you build a stunning online portfolio that not only showcases your skills but also keeps up with the latest design trends.<br /><br />Having a portfolio is crucial for developers, designers, and creative professionals to showcase their work and leave a lasting impression on potential clients or employers. With the power of Next.js and the flexibility of Tailwind CSS, you'll create a portfolio that stands out.<br /><br />We'll guide you through the entire process, from setting up a Next.js project to designing and styling your portfolio with Tailwind CSS. You'll learn responsive design principles to ensure your portfolio looks amazing on all devices. Plus, we'll implement a dark mode feature for that modern touch.<br /><br />Whether you're a seasoned developer or just starting your journey, this tutorial offers valuable insights and practical examples to help you create a professional online portfolio that truly represents you.<br /><br />By the end of this tutorial, you'll have a sleek and fully responsive modern portfolio that you can proudly share with the world. Join us on this coding journey - watch the video now, like, share, and subscribe for more web development tips and tutorials. Let's showcase your skills in style with a modern dark mode portfolio in Next.js and Tailwind CSS!"
+  },
+  {
+    "id": 24,
+    "title": "Ecommerce Products Filter in Next.js 14 and Tailwind CSS",
+    "slug": "ecommerce-products-filter-in-next-and-tailwind",
+    "thumbnail": "24.webp",
+    "link": "https://www.youtube.com/embed/nm77XDweetQ?si=phM2LRnwrxqBoOr6",
+    "live": null,
+    "download": "https://www.buymeacoffee.com/thebravecoders/e/182677",
+    "tags": ["Next", "Tailwind", "TypeScript"],
+    "lang": "hindi",
+    "duration": "00:38:29",
+    "date": "11/11/2023",
+    "desc": "Welcome to our comprehensive tutorial on creating an Ecommerce Products Filter using Next.js 14 and Tailwind CSS! In this video, we're diving into the world of web development to enhance your online store by implementing a powerful and user-friendly product filtering system.<br /><br />For any e-commerce platform, helping users find the products they want quickly and efficiently is essential. In this tutorial, we'll guide you through the entire process, from setting up a Next.js 14 project to designing and implementing a robust product filter using Tailwind CSS.<br /><br />You'll learn how to dynamically filter and display products based on categories, price ranges, or any other criteria relevant to your online store. We'll explore the latest features in Next.js 14, ensuring you stay up-to-date with the cutting-edge capabilities of this powerful React framework.<br /><br />Whether you're a beginner or an experienced developer, this tutorial provides valuable insights and hands-on examples to help you implement a seamless product filtering experience for your customers.<br /><br />By the end of this tutorial, you'll have a fully functional Ecommerce Products Filter that you can integrate into your Next.js 14 online store, providing users with an enhanced and enjoyable shopping experience. Join us on this coding journey - watch the video now, like, share, and subscribe for more web development tips and tutorials. Let's streamline product discovery for your online store together!"
   }
 ]
