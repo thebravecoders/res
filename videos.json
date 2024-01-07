@@ -348,5 +348,19 @@
     "duration": "00:38:29",
     "date": "11/11/2023",
     "desc": "Welcome to our comprehensive tutorial on creating an Ecommerce Products Filter using Next.js 14 and Tailwind CSS! In this video, we're diving into the world of web development to enhance your online store by implementing a powerful and user-friendly product filtering system.<br /><br />For any e-commerce platform, helping users find the products they want quickly and efficiently is essential. In this tutorial, we'll guide you through the entire process, from setting up a Next.js 14 project to designing and implementing a robust product filter using Tailwind CSS.<br /><br />You'll learn how to dynamically filter and display products based on categories, price ranges, or any other criteria relevant to your online store. We'll explore the latest features in Next.js 14, ensuring you stay up-to-date with the cutting-edge capabilities of this powerful React framework.<br /><br />Whether you're a beginner or an experienced developer, this tutorial provides valuable insights and hands-on examples to help you implement a seamless product filtering experience for your customers.<br /><br />By the end of this tutorial, you'll have a fully functional Ecommerce Products Filter that you can integrate into your Next.js 14 online store, providing users with an enhanced and enjoyable shopping experience. Join us on this coding journey - watch the video now, like, share, and subscribe for more web development tips and tutorials. Let's streamline product discovery for your online store together!"
+  },
+  {
+    "id": 25,
+    "title": "Full Stack Serverless Note App using Next.js, Tailwind CSS & MongoDB",
+    "slug": "full-stack-note-app-in-next-tailwind-and-monodb",
+    "thumbnail": "25.png",
+    "link": "https://www.youtube.com/embed/8lc0ZPX7BKI?si=ga9xzdx6H2crts7M",
+    "live": "https://note-app-kappa-ochre.vercel.app",
+    "download": "https://www.buymeacoffee.com/thebravecoders/e/202700",
+    "tags": ["Next", "Tailwind", "MongoDB", "TypeScript"],
+    "lang": "hindi",
+    "duration": "01:46:04",
+    "date": "07/01/2023",
+    "desc": "Embark on a transformative journey into modern web development with our tutorial, Full Stack Serverless Note App using Next, Tailwind & MongoDB. In this comprehensive guide, we dive into the cutting-edge world of serverless architecture, utilizing Next.js for frontend, Tailwind CSS for styling, and MongoDB for database management to craft a powerful, scalable, and efficient note-taking application.<br /><br />Join us as we demystify the process of building a full-stack application without the hassle of server management. We provide step-by-step instructions on leveraging Next.js for seamless frontend development, Tailwind CSS for sleek and responsive design, and MongoDB for serverless database storage, all explained in a user-friendly manner.<br /><br />Delve into hands-on demonstrations and practical coding insights, guiding you through the intricacies of serverless development using these modern technologies. Whether you're a seasoned developer or a coding enthusiast, this tutorial empowers you to create feature-rich, serverless applications that can scale effortlessly.<br /><br />Unlock the potential of Next.js, Tailwind CSS, and MongoDB as we guide you through the entire development process, from setup to deployment. By the end of this tutorial, you'll have the skills and knowledge to create your own serverless note app, blending cutting-edge technologies for a seamless, efficient, and modern web experience. Let's revolutionize your web development skills with the power of serverless architecture! 🚀💻"
   }
 ]
