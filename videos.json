@@ -7,7 +7,11 @@
     "link": "https://www.youtube.com/embed/c7cKBSfZf0s?si=ZyHc5l53-koAslO1",
     "live": null,
     "download": "https://github.com/AbdulMoqueet/movie-search-yt",
-    "tags": ["Next", "Tailwind", "TypeScript"],
+    "tags": [
+      "Next",
+      "Tailwind",
+      "TypeScript"
+    ],
     "lang": "eng",
     "duration": "01:02:02",
     "date": "06/04/2023",
@@ -21,7 +25,11 @@
     "link": "https://www.youtube.com/embed/X-idRZaTE48?si=JJUKPD1pDF0FUGZV",
     "live": null,
     "download": "https://github.com/MdUsmanAnsari/multi-step-form",
-    "tags": ["Next", "React-Hook-Form", "TypeScript"],
+    "tags": [
+      "Next",
+      "React-Hook-Form",
+      "TypeScript"
+    ],
     "lang": "eng",
     "duration": "39:27",
     "date": "06/25/2023",
@@ -35,7 +43,10 @@
     "link": "https://www.youtube.com/embed/_ORPWeJFXwQ?si=I0RAUT1Us8csgVIB",
     "live": null,
     "download": "https://github.com/MdUsmanAnsari/collapsible-sidebar-in-nextjs",
-    "tags": ["Next", "TypeScript"],
+    "tags": [
+      "Next",
+      "TypeScript"
+    ],
     "lang": "eng",
     "duration": "41:16",
     "date": "01/29/2023",
@@ -49,7 +60,11 @@
     "link": "https://www.youtube.com/embed/KzqNLDMSdMc?si=16dUKfMv6EZvOaRI",
     "live": null,
     "download": "https://github.com/AbdulMoqueet/shopping-web-app",
-    "tags": ["Next", "Tailwind", "TypeScript"],
+    "tags": [
+      "Next",
+      "Tailwind",
+      "TypeScript"
+    ],
     "lang": "eng",
     "duration": "01:10:46",
     "date": "07/27/2023",
@@ -63,7 +78,11 @@
     "link": "https://www.youtube.com/embed/OvC3iM1hA90?si=gm-tQOAfJAP-38JR",
     "live": null,
     "download": "https://github.com/AbdulMoqueet/portfolio-yt--1",
-    "tags": ["Next", "Tailwind", "TypeScript"],
+    "tags": [
+      "Next",
+      "Tailwind",
+      "TypeScript"
+    ],
     "lang": "eng",
     "duration": "01:04:34",
     "date": "08/02/2023",
@@ -77,7 +96,11 @@
     "link": "https://www.youtube.com/embed/v0m-sCGilio?si=LGaXYAqgi0sNd47O",
     "live": null,
     "download": "https://github.com/AbdulMoqueet/food-app-yt",
-    "tags": ["Next", "Tailwind", "TypeScript"],
+    "tags": [
+      "Next",
+      "Tailwind",
+      "TypeScript"
+    ],
     "lang": "eng",
     "duration": "58:53",
     "date": "08/06/2023",
@@ -91,7 +114,12 @@
     "link": "https://www.youtube.com/embed/xElA9mGi-I0?si=w5E7Sf5508rujsK8",
     "live": null,
     "download": "https://www.buymeacoffee.com/thebravecoders/e/163809",
-    "tags": ["React", "Node", "Express", "MongoDB"],
+    "tags": [
+      "React",
+      "Node",
+      "Express",
+      "MongoDB"
+    ],
     "lang": "eng",
     "duration": "01:00:43",
     "date": "03/14/2023",
@@ -105,7 +133,10 @@
     "link": "https://www.youtube.com/embed/rKG2Id4XK_U?si=E_ZbOuIHiXtxvKWH",
     "live": null,
     "download": null,
-    "tags": ["JavaScript", "Local Storage"],
+    "tags": [
+      "JavaScript",
+      "Local Storage"
+    ],
     "lang": "eng",
     "duration": "38:54",
     "date": "08/29/2023",
@@ -119,7 +150,13 @@
     "link": "https://www.youtube.com/embed/usXQs3KIwZM?si=Ybf5SROG9OVrxwcV",
     "live": null,
     "download": "https://github.com/AbdulMoqueet/full-stack-login-flow",
-    "tags": ["Node", "Next", "Tailwind", "JWT", "MongoDB"],
+    "tags": [
+      "Node",
+      "Next",
+      "Tailwind",
+      "JWT",
+      "MongoDB"
+    ],
     "lang": "eng",
     "duration": "01:19:17",
     "date": "09/04/2023",
@@ -133,7 +170,10 @@
     "link": "https://www.youtube.com/embed/vpLgOnn-qC8?si=NXDmYYq3O9yFqx7S",
     "live": "https://thebravecoders-ecommerce-website-react-tailwind.vercel.app",
     "download": "https://www.buymeacoffee.com/thebravecoders/e/163501",
-    "tags": ["React", "Tailwind"],
+    "tags": [
+      "React",
+      "Tailwind"
+    ],
     "lang": "eng",
     "duration": "01:01:32",
     "date": "08/31/2023",
@@ -147,7 +187,12 @@
     "link": "https://www.youtube.com/embed/PvMDWbAPPK4?si=-Z6a4VazN1c2xTaY",
     "live": null,
     "download": "https://www.buymeacoffee.com/thebravecoders/e/163822",
-    "tags": ["React", "Node", "Express", "MongoDB"],
+    "tags": [
+      "React",
+      "Node",
+      "Express",
+      "MongoDB"
+    ],
     "lang": "eng",
     "duration": "01:09:36",
     "date": "10/03/2022",
@@ -161,7 +206,11 @@
     "link": "https://www.youtube.com/embed/4Pf6l0axYGg?si=IWVo6Ca_TSSYRUBT",
     "live": null,
     "download": "https://github.com/MdUsmanAnsari/youtube-tutorials/tree/main/read-more__read-less",
-    "tags": ["HTML", "CSS", "JavaScript"],
+    "tags": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
     "lang": "eng",
     "duration": "05:39",
     "date": "12/10/2020",
@@ -175,7 +224,10 @@
     "link": "https://www.youtube.com/embed/K4r6nw6aeg4?si=rDyRKeaucKxrFa-T",
     "live": null,
     "download": null,
-    "tags": ["React", "React-Hook-Form"],
+    "tags": [
+      "React",
+      "React-Hook-Form"
+    ],
     "lang": "eng",
     "duration": "32:08",
     "date": "10/05/2022",
@@ -189,7 +241,9 @@
     "link": "https://www.youtube.com/embed/DXgxnh9Y-N0?si=X95jdmh5owILtMFy",
     "live": null,
     "download": null,
-    "tags": ["React"],
+    "tags": [
+      "React"
+    ],
     "lang": "eng",
     "duration": "14:28",
     "date": "11/24/2021",
@@ -203,7 +257,10 @@
     "link": "https://www.youtube.com/embed/k_rVnQb4R6s?si=MtucyXlzdAKFE4Hr",
     "live": null,
     "download": null,
-    "tags": ["Next", "Tailwind"],
+    "tags": [
+      "Next",
+      "Tailwind"
+    ],
     "lang": "eng",
     "duration": "18:48",
     "date": "11/19/2022",
@@ -217,7 +274,10 @@
     "link": "https://www.youtube.com/embed/kjEB-B1S6nI?si=3ZrOditH6IzMbqef",
     "live": null,
     "download": null,
-    "tags": ["Next", "MongoDB"],
+    "tags": [
+      "Next",
+      "MongoDB"
+    ],
     "lang": "eng",
     "duration": "37:52",
     "date": "02/28/2023",
@@ -231,7 +291,12 @@
     "link": "https://www.youtube.com/embed/zMR_NI7zISE?si=uz86L3wUFSFha-ID",
     "live": null,
     "download": "https://github.com/AbdulMoqueet/photo-gallery-app-yt",
-    "tags": ["Node", "React", "Express", "MongoDB"],
+    "tags": [
+      "Node",
+      "React",
+      "Express",
+      "MongoDB"
+    ],
     "lang": "eng",
     "duration": "01:01:13",
     "date": "02/12/2023",
@@ -245,7 +310,10 @@
     "link": "https://www.youtube.com/embed/Dtx9fybdiBE?si=fQJW_rf521bEaPvD",
     "live": "https://thebravecoders-ecommerce-website-react-tailwind.vercel.app",
     "download": "https://www.buymeacoffee.com/thebravecoders/e/163501",
-    "tags": ["React", "Tailwind"],
+    "tags": [
+      "React",
+      "Tailwind"
+    ],
     "lang": "hindi",
     "duration": "01:13:35",
     "date": "08/27/2023",
@@ -259,7 +327,11 @@
     "link": "https://www.youtube.com/embed/1EsszBdWDDw?si=1XVI2YYePiJN6IHS",
     "live": "https://movieverse-abdulmoqueet.vercel.app",
     "download": "https://www.buymeacoffee.com/thebravecoders/e/171043",
-    "tags": ["Next", "Tailwind", "TMDB API"],
+    "tags": [
+      "Next",
+      "Tailwind",
+      "TMDB API"
+    ],
     "lang": "hindi",
     "duration": "02:07:09",
     "date": "09/28/2023",
@@ -273,7 +345,11 @@
     "link": "https://www.youtube.com/embed/Ei82WZjD2EA?si=GCdBeSnR7I0-SVVr",
     "live": "https://thebravecoders-responsive-cosmetics-website-with-dg110g8i1.vercel.app",
     "download": "https://www.buymeacoffee.com/thebravecoders/e/165958",
-    "tags": ["Next", "Redux", "Tailwind"],
+    "tags": [
+      "Next",
+      "Redux",
+      "Tailwind"
+    ],
     "lang": "hindi",
     "duration": "01:49:35",
     "date": "09/09/2023",
@@ -287,7 +363,10 @@
     "link": "https://www.youtube.com/embed/Jh4wYuAn2B8?si=FedVZ0LBERwRwSX_",
     "live": "https://thebravecoders-accordion.netlify.app",
     "download": "https://github.com/thebloodcoders/accordion",
-    "tags": ["React", "TypeScript"],
+    "tags": [
+      "React",
+      "TypeScript"
+    ],
     "lang": "hindi",
     "duration": "24:01",
     "date": "10/02/2023",
@@ -301,7 +380,9 @@
     "link": "https://www.youtube.com/embed/v419VMk4NWs?si=8PIYxsOi8tc6FtZT",
     "live": null,
     "download": null,
-    "tags": ["JavaScript"],
+    "tags": [
+      "JavaScript"
+    ],
     "lang": "eng",
     "duration": "08:38",
     "date": "10/04/2023",
@@ -315,7 +396,12 @@
     "link": "https://www.youtube.com/embed/eT1ykAdULzU?si=49tg4YCb4mMnm6QR",
     "live": "https://thebravecoders-ecommerce-electronic.netlify.app",
     "download": "https://www.buymeacoffee.com/thebravecoders/e/173648",
-    "tags": ["React", "Redux", "Tailwind", "TypeScript"],
+    "tags": [
+      "React",
+      "Redux",
+      "Tailwind",
+      "TypeScript"
+    ],
     "lang": "hindi",
     "duration": "01:19:45",
     "date": "10/08/2023",
@@ -329,7 +415,11 @@
     "link": "https://www.youtube.com/embed/IsuYbcIdcM8?si=f-rWb3vnAaOUQLOr",
     "live": "https://portfolio-thebravecoders.vercel.app",
     "download": "https://www.buymeacoffee.com/thebravecoders/e/173955",
-    "tags": ["Next", "Tailwind", "TypeScript"],
+    "tags": [
+      "Next",
+      "Tailwind",
+      "TypeScript"
+    ],
     "lang": "eng",
     "duration": "01:19:30",
     "date": "10/09/2023",
@@ -343,7 +433,11 @@
     "link": "https://www.youtube.com/embed/nm77XDweetQ?si=phM2LRnwrxqBoOr6",
     "live": null,
     "download": "https://www.buymeacoffee.com/thebravecoders/e/182677",
-    "tags": ["Next", "Tailwind", "TypeScript"],
+    "tags": [
+      "Next",
+      "Tailwind",
+      "TypeScript"
+    ],
     "lang": "hindi",
     "duration": "00:38:29",
     "date": "11/11/2023",
@@ -357,10 +451,32 @@
     "link": "https://www.youtube.com/embed/8lc0ZPX7BKI?si=ga9xzdx6H2crts7M",
     "live": "https://note-app-kappa-ochre.vercel.app",
     "download": "https://www.buymeacoffee.com/thebravecoders/e/202700",
-    "tags": ["Next", "Tailwind", "MongoDB", "TypeScript"],
+    "tags": [
+      "Next",
+      "Tailwind",
+      "MongoDB",
+      "TypeScript"
+    ],
     "lang": "hindi",
     "duration": "01:46:04",
     "date": "07/01/2024",
     "desc": "Embark on a transformative journey into modern web development with our tutorial, Full Stack Serverless Note App using Next, Tailwind & MongoDB. In this comprehensive guide, we dive into the cutting-edge world of serverless architecture, utilizing Next.js for frontend, Tailwind CSS for styling, and MongoDB for database management to craft a powerful, scalable, and efficient note-taking application.<br /><br />Join us as we demystify the process of building a full-stack application without the hassle of server management. We provide step-by-step instructions on leveraging Next.js for seamless frontend development, Tailwind CSS for sleek and responsive design, and MongoDB for serverless database storage, all explained in a user-friendly manner.<br /><br />Delve into hands-on demonstrations and practical coding insights, guiding you through the intricacies of serverless development using these modern technologies. Whether you're a seasoned developer or a coding enthusiast, this tutorial empowers you to create feature-rich, serverless applications that can scale effortlessly.<br /><br />Unlock the potential of Next.js, Tailwind CSS, and MongoDB as we guide you through the entire development process, from setup to deployment. By the end of this tutorial, you'll have the skills and knowledge to create your own serverless note app, blending cutting-edge technologies for a seamless, efficient, and modern web experience. Let's revolutionize your web development skills with the power of serverless architecture! 🚀💻"
+  },
+  {
+    "id": 26,
+    "title": "Creating a Responsive eCommerce Veggy Website with React and Tailwind CSS | Hindi Tutorial",
+    "slug": "responsive-ecommerce-veggy-react-tailwind",
+    "thumbnail": "26.png",
+    "link": "https://www.youtube.com/embed/DMpImD0RkbY?si=LISTNIILmoQv82jJ",
+    "live": "https://bravecoders-ecommerce-veggy.netlify.app",
+    "download": "https://www.buymeacoffee.com/thebravecoders/e/205531",
+    "tags": [
+      "React",
+      "Tailwind"
+    ],
+    "lang": "hindi",
+    "duration": "01:12:54",
+    "date": "01/14/2024",
+    "desc": "Welcome to our comprehensive tutorial on creating a Responsive eCommerce Website using React and Tailwind CSS. If you're ready to embark on a journey to design and develop a fully functional online store, you've come to the right place.<br /><br />In this video, we'll guide you through the entire process of building an eCommerce website that is not only visually stunning but also fully responsive to various devices and screen sizes. We'll use the power of React for dynamic components and Tailwind CSS for efficient styling.<br /><br />You'll learn how to set up your project, create product listings, implement shopping cart functionality, and handle the checkout process. Additionally, we'll explore responsive design techniques to ensure your eCommerce site looks great on desktops, tablets, and smartphones.<br /><br />By the end of this tutorial, you'll have a fully functional eCommerce website that you can customize and expand to launch your own online store. Join us on this exciting coding journey - watch the video now, like, share, and subscribe for more web development tutorials. Let's bring your eCommerce dream to life!"
   }
 ]
