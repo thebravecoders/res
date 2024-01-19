@@ -478,5 +478,22 @@
     "duration": "01:12:54",
     "date": "01/14/2024",
     "desc": "Welcome to our comprehensive tutorial on creating a Responsive eCommerce Website using React and Tailwind CSS. If you're ready to embark on a journey to design and develop a fully functional online store, you've come to the right place.<br /><br />In this video, we'll guide you through the entire process of building an eCommerce website that is not only visually stunning but also fully responsive to various devices and screen sizes. We'll use the power of React for dynamic components and Tailwind CSS for efficient styling.<br /><br />You'll learn how to set up your project, create product listings, implement shopping cart functionality, and handle the checkout process. Additionally, we'll explore responsive design techniques to ensure your eCommerce site looks great on desktops, tablets, and smartphones.<br /><br />By the end of this tutorial, you'll have a fully functional eCommerce website that you can customize and expand to launch your own online store. Join us on this exciting coding journey - watch the video now, like, share, and subscribe for more web development tutorials. Let's bring your eCommerce dream to life!"
+  },
+  {
+    "id": 27,
+    "title": "Animated Sidebar in React.js | Hindi Tutorial",
+    "slug": "sidebar-reactjs-tailwindcss-hindi",
+    "thumbnail": "27.png",
+    "link": "https://www.youtube.com/embed/2yQQDQ2bXrI?si=SYT0f3Hcx6BLLIRu",
+    "live": null,
+    "download": "https://www.buymeacoffee.com/thebravecoders/e/208073",
+    "tags": [
+      "React",
+      "Tailwind"
+    ],
+    "lang": "hindi",
+    "duration": "00:24:23",
+    "date": "01/19/2024",
+    "desc": "Embark on a creative journey into the world of React.js with our tutorial, Animated Sidebar in React.js | Hindi Tutorial. This video is your comprehensive guide to crafting a dynamic and visually appealing animated sidebar component using React.js, all explained in Hindi.<br /><br />Join us as we unravel the intricacies of React.js, guiding you step-by-step through the process of building an animated sidebar that adds a touch of sophistication to your web applications. Learn how to seamlessly integrate animations to enhance user experience and navigation within your React projects.<br /><br />Delve into hands-on demonstrations and practical coding insights, tailored specifically for Hindi-speaking developers and enthusiasts. Whether you're a seasoned React developer or just starting your journey, this tutorial transcends language barriers, empowering you with the knowledge needed to create visually stunning and interactive animated sidebars.<br /><br />Unlock the potential of React.js as we navigate through the creation of animated components, exploring the synergy between state management and UI animations. By the end of this tutorial, you'll have the skills and understanding to implement animated sidebars in your React projects, bringing a dynamic and modern flair to your web development endeavors. Let's breathe life into your React applications with captivating animations! 🚀💻"
   }
 ]
